@@ -47,12 +47,9 @@ You can view the live demo of the static YouTube clone [here](http://youtube-clo
 
 Feel free to fork the repository and submit pull requests. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - AWS S3 for providing the platform to host static websites.
 - Inspiration from YouTube’s design and functionality.
 
+For detailed information and implementation, you can read this [blog post](https://amitabhdevops.hashnode.dev/github-for-devops).
