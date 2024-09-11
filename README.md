@@ -41,7 +41,8 @@ You can view the live demo of the static YouTube clone [here](http://youtube-clo
    - Use the provided S3 website URL to view your deployed static website.
 
 ## Project Structure
-
+/project-root ├── index.html ├── styles │ └── style.css └── scripts └── script.js
+/project-root ├── .github ├── workflows │ └── main.yml 
 
 ## Contributing
 
